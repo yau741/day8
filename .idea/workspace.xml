@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="520d3539-b4ae-476d-bcbf-85ca8b724353" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/changgou/entity/kk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/changgou/entity/kk.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597920802999</updated>
-      <workItem from="1597920807485" duration="2501000" />
+      <workItem from="1597920807485" duration="2957000" />
     </task>
     <task id="LOCAL-00001" summary="右手">
       <created>1597920903173</created>
@@ -120,7 +119,21 @@
       <option name="project" value="LOCAL" />
       <updated>1597922968136</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="右手4">
+      <created>1597923328067</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1597923328067</updated>
+    </task>
+    <task id="LOCAL-00007" summary="右手5">
+      <created>1597923462111</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1597923462111</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,17 +180,18 @@
     <MESSAGE value="右手2" />
     <MESSAGE value="右手3" />
     <MESSAGE value="右手4" />
-    <option name="LAST_COMMIT_MESSAGE" value="右手4" />
+    <MESSAGE value="右手5" />
+    <option name="LAST_COMMIT_MESSAGE" value="右手5" />
   </component>
   <component name="WindowStateProjectService">
     <state x="911" y="250" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597920830613">
       <screen x="95" y="0" width="1825" height="1080" />
     </state>
     <state x="911" y="250" key="#com.intellij.fileTypes.FileTypeChooser/95.0.1825.1080@95.0.1825.1080" timestamp="1597920830613" />
-    <state x="767" y="37" width="954" height="807" key="CommitChangelistDialog2" timestamp="1597923405300">
+    <state x="767" y="37" width="954" height="807" key="CommitChangelistDialog2" timestamp="1597923461490">
       <screen x="95" y="0" width="1825" height="1080" />
     </state>
-    <state x="767" y="37" width="954" height="807" key="CommitChangelistDialog2/95.0.1825.1080@95.0.1825.1080" timestamp="1597923405300" />
+    <state x="767" y="37" width="954" height="807" key="CommitChangelistDialog2/95.0.1825.1080@95.0.1825.1080" timestamp="1597923461490" />
     <state x="444" y="0" key="DiffContextDialog" timestamp="1597922938857">
       <screen x="95" y="0" width="1825" height="1080" />
     </state>
@@ -186,10 +200,10 @@
       <screen x="95" y="0" width="1825" height="1080" />
     </state>
     <state x="1058" y="154" key="RollbackChangesDialog/95.0.1825.1080@95.0.1825.1080" timestamp="1597922944403" />
-    <state x="1041" y="143" key="Vcs.Push.Dialog.v2" timestamp="1597923432393">
+    <state x="1041" y="143" key="Vcs.Push.Dialog.v2" timestamp="1597923749771">
       <screen x="95" y="0" width="1825" height="1080" />
     </state>
-    <state x="1041" y="143" key="Vcs.Push.Dialog.v2/95.0.1825.1080@95.0.1825.1080" timestamp="1597923432393" />
+    <state x="1041" y="143" key="Vcs.Push.Dialog.v2/95.0.1825.1080@95.0.1825.1080" timestamp="1597923749771" />
     <state x="949" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597921191617">
       <screen x="95" y="0" width="1825" height="1080" />
     </state>
