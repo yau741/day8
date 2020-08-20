@@ -18,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
@@ -147,14 +152,14 @@
       <screen x="95" y="0" width="1825" height="1080" />
     </state>
     <state x="911" y="250" key="#com.intellij.fileTypes.FileTypeChooser/95.0.1825.1080@95.0.1825.1080" timestamp="1597920830613" />
-    <state x="767" y="37" key="CommitChangelistDialog2" timestamp="1597921769794">
+    <state x="767" y="37" key="CommitChangelistDialog2" timestamp="1597922904409">
       <screen x="95" y="0" width="1825" height="1080" />
     </state>
-    <state x="767" y="37" key="CommitChangelistDialog2/95.0.1825.1080@95.0.1825.1080" timestamp="1597921769794" />
-    <state x="746" y="177" key="Vcs.Push.Dialog.v2" timestamp="1597922193460">
+    <state x="767" y="37" key="CommitChangelistDialog2/95.0.1825.1080@95.0.1825.1080" timestamp="1597922904409" />
+    <state x="746" y="177" key="Vcs.Push.Dialog.v2" timestamp="1597922879825">
       <screen x="95" y="0" width="1825" height="1080" />
     </state>
-    <state x="746" y="177" key="Vcs.Push.Dialog.v2/95.0.1825.1080@95.0.1825.1080" timestamp="1597922193460" />
+    <state x="746" y="177" key="Vcs.Push.Dialog.v2/95.0.1825.1080@95.0.1825.1080" timestamp="1597922879825" />
     <state x="949" y="359" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597921191617">
       <screen x="95" y="0" width="1825" height="1080" />
     </state>
